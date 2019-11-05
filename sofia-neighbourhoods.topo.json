@@ -10546,9 +10546,17 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "name": "Люлин 8",
-        "description": "<div class=\"googft-info-window\">\n<b>name:</b> Люлин 8<br>\n<b>Euro per sq. m:</b> 687\n</div>",
-        "Euro_per_sq__m": "687 "
+        "description": "<div class=\"googft-info-window\"><b>name:</b> Люлин 8<br><b>Euro per sq. m:</b> 687</div>",
+        "Euro_per_sq__m": "687 ",
+        "regionId": "68134-19",
+        "searchRegId": 1,
+        "service": "true"
       },
       "geometry": {
         "type": "Polygon",
@@ -11749,9 +11757,17 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "name": "Модерно предградие",
-        "description": "<div class=\"googft-info-window\">\n<b>name:</b> Модерно предградие<br>\n<b>Euro per sq. m:</b> 649\n</div>",
-        "Euro_per_sq__m": "649 "
+        "description": "<div class=\"googft-info-window\"><b>name:</b> Модерно предградие<br><b>Euro per sq. m:</b> 649</div>",
+        "Euro_per_sq__m": "649 ",
+        "regionId": "68134-20",
+        "searchRegId": 2,
+        "service": "true"
       },
       "geometry": {
         "type": "Polygon",
