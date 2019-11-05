@@ -9997,9 +9997,17 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "name": "Люлин 1",
-        "description": "<div class=\"googft-info-window\">\n<b>name:</b> Люлин 1<br>\n<b>Euro per sq. m:</b> 623\n</div>",
-        "Euro_per_sq__m": "623 "
+        "description": "<div class=\"googft-info-window\"><b>name:</b> Люлин 1<br><b>Euro per sq. m:</b> 623</div>",
+        "Euro_per_sq__m": "623 ",
+        "regionId": "68134-19",
+        "searchRegId": 1,
+        "service": "true"
       },
       "geometry": {
         "type": "Polygon",
@@ -10040,9 +10048,17 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "name": "Люлин 10",
-        "description": "<div class=\"googft-info-window\">\n<b>name:</b> Люлин 10<br>\n<b>Euro per sq. m:</b> 685\n</div>",
-        "Euro_per_sq__m": "685 "
+        "description": "<div class=\"googft-info-window\"><b>name:</b> Люлин 10<br><b>Euro per sq. m:</b> 685</div>",
+        "Euro_per_sq__m": "685 ",
+        "regionId": "68134-19",
+        "searchRegId": 1,
+        "service": "true"
       },
       "geometry": {
         "type": "Polygon",
@@ -10095,9 +10111,17 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "name": "Люлин 2",
-        "description": "<div class=\"googft-info-window\">\n<b>name:</b> Люлин 2<br>\n<b>Euro per sq. m:</b> 615\n</div>",
-        "Euro_per_sq__m": "615 "
+        "description": "<div class=\"googft-info-window\"><b>name:</b> Люлин 2<br><b>Euro per sq. m:</b> 615</div>",
+        "Euro_per_sq__m": "615 ",
+        "regionId": "68134-19",
+        "searchRegId": 1,
+        "service": "true"
       },
       "geometry": {
         "type": "Polygon",
@@ -10142,9 +10166,18 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "name": "Люлин 3",
-        "description": "<div class=\"googft-info-window\">\n<b>name:</b> Люлин 3<br>\n<b>Euro per sq. m:</b> 654\n</div>",
-        "Euro_per_sq__m": "654 "
+        "description": "<div class=\"googft-info-window\"><b>name:</b> Люлин 3<br><b>Euro per sq. m:</b> 654</div>",
+        "Euro_per_sq__m": "654 ",
+        "regionId": "68134-19",
+        "searchRegId": 1,
+        "service": "true",
+        "searchRegid": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -10197,9 +10230,17 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "name": "Люлин 4",
-        "description": "<div class=\"googft-info-window\">\n<b>name:</b> Люлин 4<br>\n<b>Euro per sq. m:</b> 676\n</div>",
-        "Euro_per_sq__m": "676 "
+        "description": "<div class=\"googft-info-window\"><b>name:</b> Люлин 4<br><b>Euro per sq. m:</b> 676</div>",
+        "Euro_per_sq__m": "676 ",
+        "regionId": "68134-19",
+        "searchRegId": 1,
+        "service": "true"
       },
       "geometry": {
         "type": "Polygon",
@@ -10261,7 +10302,8 @@
         "description": "<div class=\"googft-info-window\"><b>name:</b> Люлин 5<br><b>Euro per sq. m:</b> 611</div>",
         "Euro_per_sq__m": "611 ",
         "regionId": "68134-19",
-        "searchRegId": 1
+        "searchRegId": 1,
+        "service": "true"
       },
       "geometry": {
         "type": "Polygon",
@@ -10326,9 +10368,17 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "name": "Люлин 6",
-        "description": "<div class=\"googft-info-window\">\n<b>name:</b> Люлин 6<br>\n<b>Euro per sq. m:</b> 659\n</div>",
-        "Euro_per_sq__m": "659 "
+        "description": "<div class=\"googft-info-window\"><b>name:</b> Люлин 6<br><b>Euro per sq. m:</b> 659</div>",
+        "Euro_per_sq__m": "659 ",
+        "regionId": "68134-19",
+        "searchRegId": 1,
+        "service": "true"
       },
       "geometry": {
         "type": "Polygon",
@@ -10413,9 +10463,17 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "name": "Люлин 7",
-        "description": "<div class=\"googft-info-window\">\n<b>name:</b> Люлин 7<br>\n<b>Euro per sq. m:</b> 681\n</div>",
-        "Euro_per_sq__m": "681 "
+        "description": "<div class=\"googft-info-window\"><b>name:</b> Люлин 7<br><b>Euro per sq. m:</b> 681</div>",
+        "Euro_per_sq__m": "681 ",
+        "regionId": "68134-19",
+        "searchRegId": 1,
+        "service": "true"
       },
       "geometry": {
         "type": "Polygon",
@@ -10527,9 +10585,17 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "name": "Люлин 9",
-        "description": "<div class=\"googft-info-window\">\n<b>name:</b> Люлин 9<br>\n<b>Euro per sq. m:</b> 668\n</div>",
-        "Euro_per_sq__m": "668 "
+        "description": "<div class=\"googft-info-window\"><b>name:</b> Люлин 9<br><b>Euro per sq. m:</b> 668</div>",
+        "Euro_per_sq__m": "668 ",
+        "regionId": "68134-19",
+        "searchRegId": 1,
+        "service": "true"
       },
       "geometry": {
         "type": "Polygon",
